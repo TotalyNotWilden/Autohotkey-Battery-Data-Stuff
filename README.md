@@ -3,14 +3,15 @@ An autohotkey v2 script that let's you view lots of battery data just by pressin
 
 Steps:
 1. Install Autohotkey v2 from https://www.autohotkey.com/.
-2. Download the file attached.
+2. Download the file attached in the ZIP.
 3. Go to file explorer.
-4. Unblock the script if needed.
-5. Put it into Documents
-6. Double click it to run it
-7. It should have it's icon in your tray
-8. press Shift Control Alt M to view it
-9. Voila!
+4. Extract all the stuff in the ZIP folder
+5. Unblock the batteryInfo.ahk script if needed.
+6. Put it into Documents
+7. Double click it to run it
+8. It should have it's icon in your tray
+9. press Shift Control Alt M to view it
+10. Voila!
 
 <img width="462" height="617" alt="image" src="https://github.com/user-attachments/assets/dbbe0e6a-573f-4f97-87e3-9036cf14cc3e" />
 
